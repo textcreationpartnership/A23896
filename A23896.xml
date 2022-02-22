@@ -1,0 +1,366 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Abstract of the consultations and debates, between the French king and his council, concerning the new coyn and coynage that is intended to be made in England. Wherein is contain'd, the political designs, and great hopes, the French king and his council have to ruin the English nation, in divesting and draining them of their new coyn as soon as coyn'd. / Privately sent by a friend of the confederates from the French court, to his brother at Brussels, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23896</idno>
+            <idno type="STC">Wing A130</idno>
+            <idno type="STC">ESTC R5977</idno>
+            <idno type="EEBO-CITATION">11490310</idno>
+            <idno type="OCLC">ocm 11490310</idno>
+            <idno type="VID">47822</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23896)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47822)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2:1 or 1814:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Abstract of the consultations and debates, between the French king and his council, concerning the new coyn and coynage that is intended to be made in England. Wherein is contain'd, the political designs, and great hopes, the French king and his council have to ruin the English nation, in divesting and draining them of their new coyn as soon as coyn'd. / Privately sent by a friend of the confederates from the French court, to his brother at Brussels, &amp;c.</title>
+                  <author>Louis XIV, King of France, 1638-1715.</author>
+                  <author>France. Conseil d'Etat.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed, Anno Dom. MDCXCV. [1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Item at 1814:5 identified as Wing L3098A (number cancelled).</note>
+                  <note>Reproductions of originals in Yale University Library and British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47822:1" rendition="simple:additions"/>
+            <pb facs="tcp:47822:1" rendition="simple:additions"/>
+            <p>AN ABSTRACT OF THE Conſultations and Debates, Between the French King AND HIS COUNCIL, Concerning the NEW <hi>Coyn</hi> and <hi>Coynage</hi> That is Intended to be Made in ENGLAND.</p>
+            <p>Wherein is CONTAIN'D, The Political <hi>Deſigns,</hi> and Great <hi>Hopes,</hi> the <hi>French King</hi> and His <hi>Council</hi> have to Ruin the ENGLISH NATION, in Diveſting and Draining them of their New COYN as ſoon as Coyn'd.</p>
+            <p>Privately ſent by a Friend of the <hi>Confederates</hi> from the <hi>French</hi> Court, to his Brother at <hi>Bruſſels,</hi> &amp;c.</p>
+            <p>
+               <hi>LONDON:</hi> Printed, <hi>Anno Dom.</hi> MDCXCV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:47822:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:47822:2"/>
+            <head>An Abſtract of the <hi>Conſultations</hi> and <hi>Debates</hi> between the <hi>French KING</hi> and His <hi>Council,</hi> concerning the <hi>New Coyn</hi> and <hi>Coynage</hi> that is intended to be Made in <hi>ENGLAND.</hi>
+            </head>
+            <head type="sub">Privately ſent by a Friend of the <hi>Confederates</hi> from the <hi>French</hi> Court, to his Brother at <hi>Bruſſels,</hi> &amp;c. <hi>Paris Decemb. 12th,</hi> 1695.</head>
+            <div type="letter">
+               <opener>
+                  <salute>Dear Brother,</salute>
+               </opener>
+               <p>HERE is a moſt Horrid Deſign laid, which contains the greateſt piece of Policy that ever was contriv'd in <hi>Europe,</hi> which, if it go on, and be executed, will cer<g ref="char:EOLhyphen"/>tainly Ruin the <hi>Engliſh</hi> People before they perceive it; for, if this Deſign takes effect, it will inevitably bring them to Diſorder and Deſtruction in a little time; and I cannot foreſee how the <hi>People of England</hi> can poſſibly ſubſist, or preſerve their <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> Three Years longer, without being ſubject to the <hi>Power of France,</hi> if this Deſign be accompliſh'd: And if the <hi>Engliſh</hi> go down, all the reſt of the <hi>Confederacy</hi> must tamely ſubmit to the <hi>French Yoke,</hi> and leave the <hi>French King</hi> to Triumph as he Pleaſeth, who will certainly trample upon all the <hi>Princes of Europe,</hi> if he be not prevented in this Deſign; ſo that You and I, with all the Families of our Relations, ſhall certainly he B<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, as well as the reſt: Therefore I deſire You, with all the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:47822:3"/>that may be, to tranſmit this Abſtract of the <hi>Debates and Con<g ref="char:EOLhyphen"/>ſultations of the French King and His Council,</hi> by the First Post to <hi>England,</hi> and cauſe it to be Publiſh'd there, with all the Expedition that may be, to give the <hi>Parliament,</hi> and <hi>People of England,</hi> ſufficient Notice thereof; whereby they may take ſuch Methods concerning their <hi>Coyn,</hi> as may prevent this Deſign now laid by the <hi>French King,</hi> and His <hi>Miniſters of State;</hi> which is as followeth.</p>
+            </div>
+            <div type="dialogue">
+               <sp>
+                  <speaker>French King.</speaker>
+                  <p>
+                     <hi>My Lords,</hi>
+                  </p>
+                  <p>I Have juſt now Received a <hi>Letter of Advice</hi> from King <hi>James,</hi> by which it appears, The <hi>Parliament of England</hi> are very Buſie about the <hi>Alteration of their Coyn;</hi> con<g ref="char:EOLhyphen"/>cerning which, You know, We have had many <hi>Debates</hi> in <hi>Council</hi> for Three Months paſt, to try if any <hi>Project</hi> could be fram'd, or a Feaſible way found, to drain the <hi>Engliſh</hi> of their <hi>Money,</hi> as faſt as it ſhall be <hi>New Coyned;</hi> for, as I have often told ſome of You, if this be poſſible to be done, then I doubt not but to Conquer them, and the reſt of my Enemies, without Fighting either by <hi>Land</hi> or <hi>Sea:</hi> And in regard You have had ſufficient Time to conſider upon this Project, ſince our laſt <hi>Debate</hi> of this Affair, I deſire to hear what <hi>Methods</hi> You have to propoſe, and how it may be effected. —</p>
+               </sp>
+               <sp>
+                  <speaker>Firſt Miniſter of State.</speaker>
+                  <p>
+                     <hi>May it pleaſe Your Majeſty,</hi> We have had many Conferences upon this Subject, and by the Progreſs we have made, we find it is practicable, and eaſie to be done, and with a very reaſon<g ref="char:EOLhyphen"/>able Charge to Your Majeſty; therefore we have digeſted and framed the <hi>Methods</hi> and <hi>Ways</hi> of doing it, and doubt not but Your Majeſty will approve thereof, being ſo contriv'd, that
+<pb n="5" facs="tcp:47822:3"/>if the <hi>Parliament of England</hi> paſs a Vote, for <hi>Coyning</hi> their <hi>New Money</hi> of the ſame <hi>Weight and Fineneſs if for<g ref="char:EOLhyphen"/>merly was, and paſs for no more than their Mill'd Money did,</hi> (viz.) 464 <hi>Grains, or a Crown Piece of that Weight, for Five Shillings, as it did of late;</hi> Then we can and do aſſure Your Majeſty, That if the <hi>Engliſh</hi> Coyn <hi>Six Millions</hi> of <hi>New Money,</hi> we can eaſily make You Maſter of <hi>Five Millions</hi> of it in Fifteen Months, — accounted from that time they begin to Coyn it.</p>
+               </sp>
+               <sp>
+                  <speaker>French King.</speaker>
+                  <p>Oh Heavens! Is this poſſible?</p>
+               </sp>
+               <sp>
+                  <speaker>Second Miniſter of State.</speaker>
+                  <p>Your Majeſty may aſſure Your Self, It is poſſible, and the moſt eaſie to effect of all <hi>Projects</hi> that have been undertaken by any of Your <hi>Miniſters</hi> ſince the <hi>War</hi> began. — There is nothing can prevent Us from Bringing their <hi>Money</hi> from <hi>England</hi> as faſt as they Coyn it, provided this <hi>Parliament</hi> paſs a Vote for Coyning it of the ſame <hi>Weight</hi> and <hi>Purity,</hi> and Order their <hi>Shillings, Half-Crowns</hi> and <hi>Crowns</hi> to paſs as they formerly did, Your Majeſty may then rely upon it, if they Coyn <hi>Ten Millions</hi> of ſuch <hi>Money</hi> from their <hi>Clipp'd Money</hi> and <hi>Plate,</hi> we have found and contriv'd infallible Ways and Means to bring <hi>Nine Millions</hi> of it away from thence in Two Years Time.</p>
+               </sp>
+               <sp>
+                  <speaker>French King,</speaker>
+                  <stage>
+                     <hi>pointing at the</hi> Fourth Miniſter of State.</stage>
+                  <p>If this be poſſible to be done, I'll ſpare no Coſt to effect it; for ſince he firſt mentioned it, — I have often thought ſome Lucky Method might be found, to do me more Service this way, than all my <hi>Forces</hi> can by <hi>Sea</hi> or <hi>Land.</hi>
+                  </p>
+               </sp>
+               <pb n="6" facs="tcp:47822:4"/>
+               <sp>
+                  <speaker>Third Miniſter of State.</speaker>
+                  <p>'Tis very true, and Our Advice is, — That Your Majeſty will admit us to Imploy to the Value of 250000 in <hi>Engliſh Money</hi> in ſuch Ways as we have contriv'd for the Bringing over of their <hi>Coyn,</hi> whereby we'll engage totally to ſtrip and diveſt them of it; and that Your Majeſty will ſpare the Value thereof in the Publick Charge of Your Army, and Marine Affairs; ſo that, by conſequence, it will Coſt You nothing, if Your Majeſty ſaves as much in other Expences, as ſhall be laid out upon this: And though we may imploy to the Value of ſo much in <hi>Engliſh Money</hi> to effect it, nevertheleſs, we doubt not but to Return You <hi>Nine Hundred Thouſand Pounds</hi> more, beſides your Principal; and queſtion not but to make You Maſter of Nine Parts in Ten, of what-ever they Coyn, in leſs than Two Years Time; which being done, What <hi>Army</hi> can they bring into the <hi>Field?</hi> or, What <hi>Fleet</hi> can they fit out to <hi>Sea?</hi> Muſt not Your Moſt <hi>Chriſtian Majeſty</hi> Remain Maſter of Both? Will not the <hi>Confederacy</hi> then be broke, and leave Your Ma<g ref="char:EOLhyphen"/>jeſty to Give <hi>Laws,</hi> and to Govern <hi>Europe?</hi> Who, or what can, or ſhall reſiſt You, when this is done?</p>
+               </sp>
+               <sp>
+                  <speaker>French King.</speaker>
+                  <p>As I ſaid before, I'll ſpare no Coſt to effect it: But, How ſhall it be done? My Lord, I never knew a Project of Yours ſail, if You can make this appear, I'll gratifie Your Demands in all things, and own Your Service for ever.</p>
+               </sp>
+               <sp>
+                  <speaker>Fourth Miniſter of State.</speaker>
+                  <p>In all Dutiful Submiſſion, I humbly inform Your moſt <hi>Chriſtian Majeſty,</hi> — That we have ſettled Forty Eight Correſpondents Abroad, All which are to Merchandize in the Places following for Us, upon Your Majeſty's Account.</p>
+                  <pb n="7" facs="tcp:47822:4"/>
+                  <p>
+                     <hi>(Viz.)</hi>
+                  </p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell>2</cell>
+                           <cell>at <hi>Dunkirk.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>at <hi>Smirna.</hi>
+                           </cell>
+                           <cell>2</cell>
+                           <cell>at <hi>Oſtend.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>at <hi>Venice.</hi>
+                           </cell>
+                           <cell>3</cell>
+                           <cell>at <hi>Rotterdam.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>at <hi>Legborn.</hi>
+                           </cell>
+                           <cell>4</cell>
+                           <cell>at <hi>Amſterdam.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>at <hi>Genoa.</hi>
+                           </cell>
+                           <cell>2</cell>
+                           <cell>at <hi>Hamborough.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>at <hi>Alicant.</hi>
+                           </cell>
+                           <cell>2</cell>
+                           <cell>at <hi>Brechmen.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>at <hi>Maliga.</hi>
+                           </cell>
+                           <cell>4</cell>
+                           <cell>in <hi>Norway.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                           <cell>at <hi>Cadiz.</hi>
+                           </cell>
+                           <cell>4</cell>
+                           <cell>in <hi>Denmark.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                           <cell>at <hi>Lisbon.</hi>
+                           </cell>
+                           <cell>2</cell>
+                           <cell>at <hi>Stockholm.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>at <hi>O Porto.</hi>
+                           </cell>
+                           <cell>1</cell>
+                           <cell>at <hi>Arch-Angel.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell role="total">22</cell>
+                           <cell role="total"> </cell>
+                           <cell role="total">26</cell>
+                           <cell role="total"> </cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>Who are to Receive ſuch Goods from <hi>England,</hi> as ſhall be ſent from thence, by our Agents there, to each and every of theſe reſpective Places; and to Return ſuch Goods back for <hi>England,</hi> by the ſame Ships as we ſhall direct.</p>
+                  <p>We have alſo taken Care to provide Forty Four Correſpon<g ref="char:EOLhyphen"/>dents in the following Places of <hi>England,</hi> which will be all fix'd in their ſeveral Stations before the <hi>New Coyned Money</hi> comes forth, <hi>(viz.)</hi>
+                  </p>
+                  <p>Two <hi>Merchants,</hi> with One <hi>Melter,</hi> at <hi>New-Caſtle</hi> and <hi>Durham;</hi> One <hi>Merchant,</hi> and a <hi>Melter,</hi> at <hi>Stockton</hi> and <hi>Tarm;</hi> Four <hi>Merchants</hi> at <hi>Hull</hi> and <hi>York,</hi> with One <hi>Melter;</hi> One <hi>Merchant</hi> at <hi>Boſton;</hi> One at <hi>Yarmouth,</hi> and a <hi>Melter;</hi> Twelve <hi>Merchants</hi> in <hi>London,</hi> and Five <hi>Melters;</hi> Two <hi>Mer<g ref="char:EOLhyphen"/>chants</hi>
+                     <pb n="8" facs="tcp:47822:5"/>at <hi>Exeter,</hi> One at <hi>Topſham,</hi> One at <hi>Baruſtable</hi> and <hi>Biddiford,</hi> with One <hi>Melter;</hi> One <hi>Merchant</hi> at <hi>Plimouth,</hi> One at <hi>Truro,</hi> One at <hi>Falmouth,</hi> One for Saint <hi>Ives</hi> and <hi>Pad<g ref="char:EOLhyphen"/>ſtow,</hi> with One <hi>Melter;</hi> at <hi>Briſtol</hi> Three <hi>Merchants</hi> and a <hi>Melter:</hi> And for the In-land Towns, and Trading Countries, we have appointed Twenty Four other Correſpondents to remain there till this Buſineſs is diſpatch'd, to whom our <hi>Agents</hi> in <hi>London</hi> will remit <hi>Guinneas</hi> from thence, at the Cur<g ref="char:EOLhyphen"/>rant Price they go for there, let that be more or leſs (as Opportunity offers) to every County of <hi>England,</hi> by the <hi>Carriers</hi> of thoſe Countries; where our <hi>Agents</hi> are to Change the <hi>Guinneas</hi> for <hi>New Coyn'd Money;</hi> and as each of them gathers up <hi>One Hundred, Two Hundred, Three Hundred, Four Hundred</hi> or <hi>Five Hundred Pounds</hi> a Week, more or leſs, in every County, of the <hi>New Coyn,</hi> they are to ſend it by the ſame <hi>Carriers,</hi> pack'd up in ſome of that County Goods, to their reſpective <hi>Correſpondents</hi> in <hi>London,</hi> where it is to be <hi>Melted down</hi> with the reſt Collected there, and thereabouts: And ſuch <hi>Silver</hi> as is to be pack'd up in any ſorts of <hi>Bale Goods,</hi> is ordered to be Caſt into <hi>broad</hi> and <hi>thin Ingots,</hi> and then beaten out to the Thickneſs of half an Inch, for the Con<g ref="char:EOLhyphen"/>veniency of Packing; and for what Goods are Shipp'd from <hi>London,</hi> or any of the before-mentioned Places, in <hi>Cask,</hi> the ſame may be done in <hi>thicker Ingots,</hi> or <hi>Bars of Bullion;</hi> whereby we Propoſe, from all Places of <hi>England,</hi> one reckoned with another, to pick up, and <hi>Melt down,</hi> near <hi>One Hundred Thou<g ref="char:EOLhyphen"/>ſand Pounds</hi> a Week, which is much more than they can Coyn Weekly; ſo that it will be time enough to begin this Trade Two or Three Months after the <hi>Engliſh</hi> have begun their <hi>Coynage,</hi> againſt which time nothing ſhall be Wanting on Your Majeſty's Part.</p>
+               </sp>
+               <sp>
+                  <speaker>French King.</speaker>
+                  <p>I have heard this Diſcourſe with all the Delight that can be imagin'd, and never did more pleaſing Patience poſſeſs my
+<pb n="9" facs="tcp:47822:5"/>Mind: I confeſs, the Project, and the Methods of it, ſeems a very feaſible Enterprize; nor can I foreſee how it ſhould miſ<g ref="char:EOLhyphen"/>carry, if your <hi>Correſpondents</hi> in <hi>England</hi> be ſo prudent to keep all things ſecret, then I queſtion not but to meet with Succeſs.</p>
+               </sp>
+               <sp>
+                  <speaker>Firſt Miniſter of State.</speaker>
+                  <p>Your Majeſty may depend on't; we have taken effectual Care of that; for if Your Majeſty approve of the Project, and will be at the Charge, we doubt not their Secrecy and Faithful Service.</p>
+                  <p>
+                     <hi>Firſt,</hi> Here are Forty Eight <hi>Correſpondents</hi> ſettled in various Places Abroad, who know nothing one of another, nor of our Deſigns; ſo that there is no doubt to be made of their Diſ<g ref="char:EOLhyphen"/>covering, or Writing any thing to <hi>England</hi> to prevent it, if Furniſh'd as followeth.</p>
+                  <p>We propoſe to ſupply each and every of theſe Forty Eight <hi>Correſpondents</hi> Abroad, with <hi>Five Thouſand Pounds</hi> a piece, to Trade to and from <hi>England,</hi> (all the Places before-mentioned being in Peace with the <hi>Engliſh</hi>) which Forty Eight <hi>Cor<g ref="char:EOLhyphen"/>reſpondents</hi> ſo ſupply'd, will take up <hi>Two Hundred</hi> and <hi>Forty Thouſand Pounds,</hi> the Value of which, when ſent in Goods from the ſeveral Places where they reſide, to our <hi>Agents</hi> in <hi>England,</hi> we have contracted for to be done on theſe Terms and Conditions. <hi>(viz.)</hi>
+                  </p>
+                  <p>All and every of them are to have One Third Part of the Profits their Goods make in <hi>England;</hi> our <hi>Agents</hi> or <hi>Merchants</hi> in <hi>England,</hi> another Third; and Your Majeſty the Remainder. We have alſo agreed, They ſhall have the ſame Proportion of the Profits made of ſuch Goods as ſhall be ſent them from <hi>England, Bullion</hi> only excepted: And if their Parts of the Profits, inward and outward, do not ariſe to <hi>Five Hundred
+<pb n="10" facs="tcp:47822:6"/>Pounds</hi> a Man <hi>per Annum,</hi> Your Majeſty is to make it up ſo much to all and every of them, as well to thoſe in <hi>England,</hi> as to thoſe in other Places Abroad; for which, they are to deliver up a fair and true Account, together with the <hi>Principal Stock,</hi> and Your Majeſty's Proportion of the Profits, when demanded; and are to keep all Secrets we ſhall entruſt them with. And as it hath been already mentioned, we have contriv'd the Buſineſs ſo, that none of our <hi>Correſpondents</hi> Abroad, nor in <hi>England,</hi> knows one of another, but only thoſe that are to deal directly together, and they know not the bottom of this Deſign; neither ſhall the <hi>Agents</hi> that are to be concerned in the ſeveral Counties of <hi>England,</hi> know one of another, each being to keep to the particular Perſon he is to deal with from thence to <hi>London;</hi> ſo that we look upon the <hi>Five Hundred Pounds per Annum</hi> to be a ſufficient Obligation to oblige all Perſons that ſhall be concerned to Secreſie and Induſtry; whereby we doubt not but to ſtrip the <hi>Engliſh</hi> of their <hi>Coyn</hi> as ſoon as 'tis well Coyned; for which, we have given our <hi>Correſpondents</hi> their poſitive Orders, to pack up <hi>Four Hundred Pounds</hi> Worth of <hi>Bullion,</hi> in every <hi>Hundred Pounds</hi> Worth of other Goods they ſhall Ship from thence; ſo that by one Return of <hi>Two Hundred</hi> and <hi>Forty Thouſand Pounds,</hi> we ſhall draw away <hi>Nine Hundred</hi> and <hi>Sixty Thouſand Pounds,</hi> Five or Six of which Draughts will effectually do our Buſineſs: Beſides, Your Majeſty may conclude, That by the Working <hi>Silver-Smiths,</hi> and the Exporters of <hi>Bullion,</hi> there will be above a <hi>Million</hi> of their <hi>Coyn Melted down</hi> in Twelve Months Time after it comes forth.</p>
+               </sp>
+               <sp>
+                  <speaker>French King.</speaker>
+                  <p>My Lords, If this Project takes effect, you may live to hear of another <hi>Revolution;</hi> for though they over-witted me in <hi>That,</hi> I may chance to over-Reach them in <hi>This,</hi> eſpecially if they carry on their <hi>Coynage</hi> ſo, as to leave an Opportunity to Impower me.</p>
+                  <pb n="11" facs="tcp:47822:6"/>
+                  <p>But one of my great Fears is, That either amongſt that <hi>Parliament,</hi> or the <hi>People,</hi> there may be ſome ſuch Thinking Men, whoſe fore-ſight may lead them to conſider the Circum<g ref="char:EOLhyphen"/>ſtances and State of <hi>Europe,</hi> and eſpecially the Stratagems and Inclinations of the <hi>Court of France,</hi> at this time; who cannot but imagin, we ſhall be ready to Contrive, and Engage in any Project which ſeems rational to Wound our <hi>Enemies,</hi> having ſo many of them. And, amongſt other Thoughts, may un<g ref="char:EOLhyphen"/>luckily light of ſuch Notions as theſe; the Probability and Poſſibility of which being Diſcovered, and made Publick to the <hi>Engliſh People</hi> and <hi>Parliament,</hi> may thereby prevent us from putting this Deſign in Practice; and if this ſhould hap<g ref="char:EOLhyphen"/>pen, I ſhould either think my ſelf Accurſt, or imagin that ſome of you, or thoſe you imploy, have Betray'd me: I confeſs this is one of my great Fears, for I'm ſo in Love with this Project, being confident, if it takes effect, it will enable me to do all I deſire, ſo that I'd rather give <hi>Forty Millions of Livers</hi> than it ſhould be Diſcover'd.</p>
+               </sp>
+               <sp>
+                  <speaker>Second Miniſter.</speaker>
+                  <p>Your Majeſty's Judgment and Prudence in all things is very great, and there is much Reaſon in what You ſay; nevertheleſs, I am of Opinion, There is not One Man in Ten Millions of Men can think of ſuch a Contrivance; or, how<g ref="char:EOLhyphen"/>ever, — That it ſhould be thus laid in the <hi>Court of France;</hi> for, unleſs he knew what's done and acted here, he muſt be a ſtrange ſort of <hi>Fortune-Teller</hi> that can predict and fore-tell our Deſigns and Proceedings in Council; although, I confeſs, he that loves his <hi>King</hi> and <hi>Countrey,</hi> and is of a generous Spirit, will ſpare no Pains, but Think and Write, and Write and Think of all the Ways he can to ſerve them. — But the Ways and Methods of Managing this Project, and alſo the Enterprize it ſelf, ſeem to me impoſſible to enter into any
+<pb n="12" facs="tcp:47822:7"/>Man's Head, unleſs he was engaged with an Enemy, as Your Majeſty is; or elſe, was in Councel with us: Who can imagin any Man ſhould have the fore-ſight to know our Deſigns? I think Your Majeſty need not queſtion this.</p>
+               </sp>
+               <sp>
+                  <speaker>French King.</speaker>
+                  <p>My next Doubt, and the greateſt of my Fears is, That the <hi>Parliament of England</hi> will not Vote, <hi>The Coynage of their Money of the ſame Fineneſs and Weight, and Value it as it was before;</hi> becauſe they very well know it hath been lately <hi>Melted down,</hi> and therefore muſt conclude it will be ſo ſerv'd again, eſpecially in theſe times, when all <hi>Europe</hi> hath ſuch Occaſions for <hi>Silver:</hi> My Reaſon is this, becauſe, in all Parts of <hi>Europe,</hi> except <hi>Holland, Portugal, Spain,</hi> and <hi>Italy.</hi>— It is worth 20 <hi>per Cent.</hi> more now than the Price the <hi>Engliſh</hi> formerly Valued it at; ſo that if they conſider the Affairs and State of <hi>Europe,</hi> they muſt needs know and underſtand there is a great Alteration, and a vaſt Difference, to what there was in Times of Peace, amongſt all Nations; ſo that how the <hi>People</hi> or <hi>Parliament</hi> ſhould be of that Opinion, and take that Method in their <hi>New Coynage,</hi> ſeems to me a Doubt, they will not Vote it, as afore-ſaid.</p>
+               </sp>
+               <sp>
+                  <speaker>Third Miniſter.</speaker>
+                  <p>We hope there will be no Occaſion for Your Majeſty to doubt it, having taken much Care, and uſed all the Endea<g ref="char:EOLhyphen"/>vours that poſſibly may be to impoſe upon <hi>Them,</hi> and the <hi>People of England;</hi> that 'tis abſolutely neceſſary to Coyn their <hi>New Money of the ſame Weight, Value, and Fineneſs, it formerly was;</hi> and we knew very well, by good Advice, before the <hi>Parliament</hi> met, that all, or moſt of the unthinking People, were fix'd and grounded in that Belief; and to confirm them and their <hi>Parliament</hi> in that Opinion, we have cauſed
+<pb n="13" facs="tcp:47822:7"/>ſeveral Sorts of <hi>Printed Papers</hi> to be Publiſh'd, and ſpread amongſt them, to aſſert and prove the Neceſſity of it; in which Papers our <hi>Agents</hi> have endeavoured to exert and prove,</p>
+                  <p>
+                     <hi>Firſt,</hi> The great Loſs they ſuffer by the <hi>Exchange of Money;</hi> alleadging, if they Owe, they muſt either Pay or Break.</p>
+                  <p>
+                     <hi>Secondly,</hi> The Deſtruction and Ruin it will bring upon their <hi>Trade,</hi> if they ſhould either <hi>abaſe their Coyn, make it leſs,</hi> or <hi>raiſe it in its Value.</hi>
+                  </p>
+                  <p>
+                     <hi>Thirdly,</hi> That all <hi>Foreigners</hi> will Value it according to its <hi>Weight</hi> and <hi>Fineneſs,</hi> and will make that the Meaſure of their <hi>Trade</hi> with them, and will Sell them their <hi>Goods,</hi> and be Paid for them accordingly.</p>
+                  <p>
+                     <hi>Fourthly,</hi> That if they ſhould Raiſe the <hi>Value</hi> of their <hi>New Coyn,</hi> all <hi>Foreign Exchange of Money</hi> will riſe proportionably.</p>
+                  <p>
+                     <hi>Fifthly,</hi> That if they ſhould Raiſe the <hi>Value</hi> of their <hi>Coyn,</hi> ſuch an Alteration or Change of it will Defraud the <hi>Nobility, Gentry,</hi> and <hi>Landlords of their Rents.</hi>
+                  </p>
+                  <p>
+                     <hi>Sixthly,</hi> That all the <hi>Revenues of the Crown,</hi> with the <hi>Revenues of the Church,</hi> will be Leſſened: — All their <hi>Eatables</hi> and <hi>Wearables</hi> will be Dearer: — All their <hi>Officers</hi> and <hi>Souldiers,</hi> by <hi>Land</hi> and <hi>Sea;</hi> their <hi>Ser<g ref="char:EOLhyphen"/>vants, Labourers,</hi> and <hi>Workmens Wages,</hi> with all <hi>Gifts,</hi> and <hi>Publick Settlements of Charity,</hi> will be Diminiſhed. — Theſe, and a Multitude more of ſuch like Arguments, we have, by our <hi>Agents,</hi> ſtrenuouſly preſt upon the People, which have taken that good Effect, there is ſcarce One in a Thouſand but believes them, inſomuch, that they
+<pb n="14" facs="tcp:47822:8"/>have and do maintain theſe Inferences in all common Diſcourſe, and have labour'd extreamly to perſwade their <hi>Parliament</hi> into the ſame Opinion and Belief: All which things ſeem rational enough to them that take the Circumſtances of <hi>Europe</hi> to be the ſame now, they were in <hi>Times of Peace;</hi> and eſpecially ſuch as know not, nor think nothing of the Deſign we have to drain them of their <hi>Money,</hi> and how eaſily it may be done: — And, therefore, I doubt not but Your Majeſty will hear very ſpeedily that <hi>Parliament</hi> hath Voted it accord<g ref="char:EOLhyphen"/>ingly; — and the next thing will be, to fall a <hi>Coyning.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>French King.</speaker>
+                  <p>That would be the Welcomeſt News that ever came at <hi>Paris, Marli,</hi> or <hi>Verſailles,</hi> ſince theſe <hi>Wars</hi> began; — when I hear ſuch a Vote is paſt in <hi>England,</hi> as I ſaid before, I ſhall have ſome Hopes to ſee another <hi>Revolution,</hi> and a further <hi>Con<g ref="char:EOLhyphen"/>queſt</hi> in EUROPE than I have yet made; for ever ſince this Project of <hi>Draining them of their Money</hi> was firſt mov'd, I have always thought the <hi>Parliament of England</hi> could never ſerve Me more, nor Themſelves and the People leſs, than in this thing of the <hi>Value of their Coyn,</hi> which, when done, and Eſtabliſh'd at the Price their <hi>Mill'd Money formerly was at,</hi> will leave me ſufficient room to cut 'em out New Work.</p>
+               </sp>
+               <sp>
+                  <speaker>Fourth Miniſter.</speaker>
+                  <p>Of all the Projects Your Majeſty hath Enterpriz'd, either by <hi>Land</hi> or <hi>Sea,</hi> ſince the <hi>Wars</hi> began, in my Opinion, there are none of 'em to be compar'd with This, for <hi>Sinking</hi> Your Enemies <hi>Speedily, Secretly,</hi> and <hi>Certainly.</hi>
+                  </p>
+                  <p>And though You drain all the <hi>Ware-Houſes</hi> in <hi>France,</hi> and empty every particular <hi>Province</hi> of its <hi>Goods,</hi> to bring <hi>Silver</hi> and <hi>Gold</hi> in great Plenty into Your Kingdom, nevertheleſs, if it
+<pb n="15" facs="tcp:47822:8"/>be at high Rates, the doing thereof will Impoveriſh and Weaken Your Enemies, and will add very much to Strengthen and Enrich You; for when they're diveſted of their <hi>Silver,</hi> though they'd give <hi>Eight Shillings</hi> an Ounce for it, they cannot have it again. — And conſidering how we have order'd and con<g ref="char:EOLhyphen"/>triv'd the Management of this Enterprize, the moſt that ever Your Majeſty will disburſe to effect it, will not exceed 250000 <hi>Pounds;</hi> I mean ſo much for a <hi>Principal,</hi> or <hi>Stock</hi> to accompliſh it. — And if there was no Advantage, nor any Profits to be made by Imploying ſo much <hi>Money</hi> in Im<g ref="char:EOLhyphen"/>porting and Exporting Goods to and from <hi>England,</hi> neverthe<g ref="char:EOLhyphen"/>leſs, all the Sallaries Your Majeſty hath to Pay to 116 <hi>Agents,</hi> at 500 <hi>Pounds</hi> a Man, to go through and effect this Deſign, comes but to 58000 <hi>Pounds;</hi> of which, the Profits inwards and outwards of 240000 <hi>Pounds,</hi> imploy'd as aforeſaid, cannot make leſs than one Third of the 58000 <hi>Pounds,</hi> which is 19333 <hi>Pounds,</hi> 6 <hi>Shillings</hi> and 8 <hi>Pence:</hi> — So that Your Majeſty's Charges will be reduc'd to 38666 <hi>Pounds,</hi> 13 <hi>Shillings</hi> and 4 <hi>Pence,</hi> which will be all the Coſt You will be at, totally to drain and diveſt the <hi>Engliſh</hi> of their <hi>New Coyn'd Money,</hi> by carrying on of this Deſign. — But then if Your Majeſty pleaſeth to conſider, as You ſignifi'd before, the Difference there is in <hi>France,</hi> and moſt Parts of <hi>Europe,</hi> between the Prices of <hi>Silver</hi> of their <hi>Standard,</hi> at 5 <hi>Shillings</hi> and 3 <hi>Pence</hi> an Ounce, admitting one of their <hi>Crowns</hi> paſs but for 5 <hi>Shillings,</hi> will be at leaſt 12 <hi>Pence</hi> an Ounce for the Difference; ſo that the Queſtion will be this, If, by this Project, in 12 Months time after their <hi>Money</hi> is <hi>New Coyned,</hi> You drain them of 5 <hi>Millions,</hi> What Advantage will that make Your Majeſty over and above all Your Coſt and Charges, allowing every Ounce of their <hi>Money</hi> to afford You 12 <hi>Pence</hi> Profit? <hi>Anſwer.</hi> 929075 <hi>Pounds,</hi> 4 <hi>Shillings</hi> and 8 <hi>Pence</hi> clear of all Charges, together with the Principal Stock return'd again. And this You may conclude for infallible Truth; — <hi>When You have got the Commanding Purſe, You muſt and will have the
+<pb n="16" facs="tcp:47822:9"/>Commanding Sword;</hi> and how eaſie it is to make Your Self Maſter of that <hi>Purſe,</hi> by Executing this Deſign now laid, I think there wants no further Proof nor Demonſtration.</p>
+               </sp>
+               <sp>
+                  <speaker>French King.</speaker>
+                  <p>
+                     <hi>My Lords,</hi> I approve extreamly well of what hath been ſaid and done in this Affair; I have nothing more to ſay at preſent, but to recommend it to your Care; — and ſhall daily deſire to hear of a Vote paſt by the <hi>Parliament of England</hi> for <hi>Coyn<g ref="char:EOLhyphen"/>ing their New Money of the Standard, Weight and Value their Mill'd Money formerly was;</hi> which being done, I have nothing more to add; <hi>But then Have at All.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>Bruſſels <hi>Decemb.</hi>
+                  </hi> 15th, 1695.</head>
+               <opener>
+                  <salute>Brother,</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> Received the <hi>Abſtract</hi> you ſent me of the <hi>Conſultations</hi> and <hi>Debates</hi> between the <hi>French King</hi> and <hi>His Council,</hi> concern<g ref="char:EOLhyphen"/>ing the <hi>New Coyn</hi> and <hi>Coynage</hi> that is intended to be made in <hi>England;</hi> — and according to your Deſire have tranſmitted it to <hi>England,</hi> in Order to be Printed, for the Information of the <hi>People</hi> and <hi>Parliament</hi> there; ſo that I have great Reaſon to hope they will govern Themſelves in this Affair, and take ſuch <hi>Methods</hi> in <hi>Valuing their New Coyn,</hi> as to prevent all the <hi>Deſigns</hi> their <hi>Enemies</hi> have upon them concerning it, which appears, by the foregoing <hi>Abſtract,</hi> to be ſo laid and contriv'd for the Ruin and Deſtruction of the <hi>Engliſh People,</hi> that unleſs great Care be taken to annihilate their <hi>Deſigns</hi> in this <hi>Project,</hi> not only the <hi>Engliſh,</hi> but moſt of <hi>Europe,</hi> will be great <hi>Sufferers,</hi> if not Dra<g ref="char:EOLhyphen"/>goon'd by the <hi>French Arms: Which God of His Mercy prevent.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
